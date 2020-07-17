@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(15, 1, 27);
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+
+#contactContainer{
+    color: black;
+    display: flex;
+    
+}
+
+#contactDetail{
+    width: 100%;
+}
